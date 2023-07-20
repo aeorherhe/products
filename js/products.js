@@ -32,9 +32,6 @@ const displayProduct = (product) => {
       return `<span class="product-color" style="background: ${eachColor}"></span>`;
     })
     .join(" ");
-
-  console.log(colorsArr);
-
   productContainer.innerHTML = `<section class="single-product-ctn">
             <img
               src="${img}"

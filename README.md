@@ -4,8 +4,8 @@
 
 ### Links
 
-- Solution URL: [solution]()
-- Live Site URL: [live site]()
+- Solution URL: [solution](https://github.com/aeorherhe/products.git)
+- Live Site URL: [live site](https://aeorherhe-products-page.netlify.app/)
 
 ### Built with
 
