@@ -157,6 +157,7 @@ img {
 
 /* footer styles */
 .my-profile {
+  align-self: self-end;
   background-color: hsl(228, 59%, 16%);
   align-items: center;
   color: white;
