@@ -1,7 +1,6 @@
 // declare variables
 
 const url = "https://course-api.com/javascript-store-products";
-// const productContainer = document.querySelector(".all-products");
 const productsSection = document.querySelector(".products-stn");
 
 async function fecthProducts() {

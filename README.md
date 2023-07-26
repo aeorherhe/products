@@ -15,6 +15,9 @@
 - Mobile-first workflow
 - Vanila JavaScript
 - ES6 modules
+- URLSearchParams
+- Window location search
+- document.title
 
 ## Author
 
