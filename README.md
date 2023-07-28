@@ -23,8 +23,8 @@
 
 ## Author
 
-- Github - [Abraham Orherhe](https://github.com/aeorherhe)
-- Frontend Mentor - [@Abraham Orherhe](https://www.frontendmentor.io/profile/aeorherhe)
-- Twitter - [Abraham Orherhe](https://twitter.com/aeorherhe)
-  -LinkedIn - [Abraham Orherhe](https://www.linkedin.com/in/aeorherhe/)
-  -Instagram - [Abraham Orherhe](https://www.instagram.com/aeorherhe/)
+- Github - [aeorherhe](https://github.com/aeorherhe)
+- Frontend Mentor - [@aeorherhe](https://www.frontendmentor.io/profile/aeorherhe)
+- Twitter - [aeorherhe](https://twitter.com/aeorherhe)
+- LinkedIn - [aeorherhe](https://www.linkedin.com/in/aeorherhe/)
+- Instagram - [aeorherhe](https://www.instagram.com/aeorherhe/)
