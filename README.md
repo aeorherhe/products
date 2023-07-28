@@ -24,7 +24,7 @@
 ## Author
 
 - Github - [aeorherhe](https://github.com/aeorherhe)
-- Frontend Mentor - [@aeorherhe](https://www.frontendmentor.io/profile/aeorherhe)
+- Frontend Mentor - [aeorherhe](https://www.frontendmentor.io/profile/aeorherhe)
 - Twitter - [aeorherhe](https://twitter.com/aeorherhe)
 - LinkedIn - [aeorherhe](https://www.linkedin.com/in/aeorherhe/)
 - Instagram - [aeorherhe](https://www.instagram.com/aeorherhe/)
